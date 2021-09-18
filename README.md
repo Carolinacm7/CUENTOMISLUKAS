@@ -6,7 +6,7 @@ _Es una solución integral que promueve la educación financiera en jóvenes, me
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
 
 * **Annie Carolina CM** - *Front End* - [Carolinacm7](https://github.com/Carolinacm7)
 
